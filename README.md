@@ -13,4 +13,3 @@ Goals for next version:
 1. Improving Auto-Paste feature so that whenever the window is unveiled, the Auto-Paste function is called.
 2. Overriding the slow working classes to get the progressbar values and making it smoother.
 3. Finding alternative for moviepy and deleting the importer class.
-4. 
